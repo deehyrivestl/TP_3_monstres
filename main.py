@@ -14,8 +14,6 @@ defaites = 0
 
 def show_rules():
    print("""Voici les règles, cher héros:
-
-
   1: Vous commencez avec 20 PV
   2: Le jeu se termine si vous perdez tous vos PV, ce qui est une défaite,
   ou en survivant les 7 tours du jeu
