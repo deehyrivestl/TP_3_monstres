@@ -93,6 +93,6 @@ if tours >= 7 and pv_hero > 0:
    final_player_stats()
 elif pv_hero <= 0:
    print(
-       f"""Vous perdez {damage} points de vie! Vous avez été tué! womp womp!""")
+       f"""Vous avez été tué! womp womp!""")
    final_player_stats()
 
