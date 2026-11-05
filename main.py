@@ -60,7 +60,7 @@ while tours < 7 and pv_hero > 0:
            show_player_stats()
 
        else:
-           damage = random.randint(10, 20)
+           damage = random.randint(3, 7)
            pv_hero = pv_hero - damage
            defaites += 1
            print(f"Ah non! {monstre_qui_pull_up} vous attaque!")
